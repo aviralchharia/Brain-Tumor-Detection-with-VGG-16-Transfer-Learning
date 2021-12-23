@@ -1,8 +1,8 @@
 # Brain Tumor Detection with VGG-16 CNN Transfer Learning
 
-Aim of the project is to use Computer Vision techniques of Deep Learning to correctly identify & map Brain Tumor for assistance in Robotic Surgery. 
+Aim of the project is to use Computer Vision techniques of Deep Learning to correctly detect Brain Tumor for assistance in Robotic Surgery.
 
-In this part, we build a Convolutional Neural Network (CNN) model that would classify if subject has a tumor or not based on MRI scan. We have used VGG-16 model architecture and weights to train the model for this binary classification problem. The following MRI Scans have no tumor while those given later have Brain Tumor. 
+Here, I build a Convolutional Neural Network (CNN) model that would classify if subject has a tumor or not based on MRI scan. We have used VGG-16 model architecture and weights to train the model for this binary classification problem. The following MRI Scans have no tumor while those given later have Brain Tumor. 
 
 <p align="center">
     <img width="700" height="300" src = 'https://github.com/aviralchharia/Brain-Tumor-Segmentation-with-Deep-Neural-Networks/blob/main/Images/No%20Tumor.png?raw=true'
