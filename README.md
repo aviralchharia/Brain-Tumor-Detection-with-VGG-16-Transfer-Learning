@@ -1,4 +1,4 @@
-# Brain Tumor Classification with Deep Neural Networks
+# Brain Tumor Detection with VGG-16 CNN Transfer Learning
 
 Aim of the project is to use Computer Vision techniques of Deep Learning to correctly identify & map Brain Tumor for assistance in Robotic Surgery. 
 
