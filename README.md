@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation with Deep Neural Networks
+# Brain Tumor Classification with Deep Neural Networks
 
 Aim of the project is to use Computer Vision techniques of Deep Learning to correctly identify & map Brain Tumor for assistance in Robotic Surgery. 
 
